@@ -15,4 +15,12 @@ Example of result for wavelet transform
 
 Example of result for Fast Fourier  transform
 ![alt tag](https://github.com/Ildaron/3.eeg_recognation/blob/master/pic.2.bmp "Example of result for Fast Fourier  transform")​
-https://github.com/Ildaron/3.eeg_recognation/blob/master/pic.2.bmp
+
+
+Example of result for Fast Fourier  transform  of the two-dimensional (2D) graphics data correlation (Python3.7, matplotlib)
+![alt tag](https://github.com/Ildaron/3.eeg_recognation/blob/master/pic.3.bmp "Example of result for Fast Fourier  transform  of the two-dimensional")​
+
+Example of type of machine learning dataset
+![alt tag](https://github.com/Ildaron/3.eeg_recognation/blob/master/pic.4.bmp "type of machine learning dataset")​
+
+
