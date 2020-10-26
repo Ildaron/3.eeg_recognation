@@ -1,5 +1,4 @@
-#https://pythontic.com/visualization/signals/fouriertransform_fft
-#%matplotlib inline
+
 import numpy as np
 import matplotlib.pyplot as plt
 import scipy.fftpack
