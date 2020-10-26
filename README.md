@@ -1,4 +1,7 @@
-Please read full explanation in the paper - "Python (deep learning and machine learning) for EEG signal processing on the example of recognizing the disease of alcoholism" 
+Python (deep learning and machine learning) for EEG signal processing on the example of recognizing the disease of alcoholism
+=====================
+
+Please read full explanation in the paper - 
 https://www.researchgate.net/publication/344827354_Python_deep_learning_and_machine_learning_for_EEG_signal_processing_on_the_example_of_recognizing_the_disease_of_alcoholism_arXiv201011667_eessSP
 arXiv:2010.11667
 
