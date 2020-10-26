@@ -14,6 +14,7 @@ preprocessing folder:
                     3.3 Correlation for data in python  
                     
 Example of result for wavelet transform
+-----------------------------------
 ![alt tag](https://github.com/Ildaron/3.eeg_recognation/blob/master/New%20Bitmap%20Image.bmp "Example of result for wavelet transform")​
 
 Example of result for Fast Fourier  transform
