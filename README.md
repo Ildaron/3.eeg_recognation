@@ -8,10 +8,10 @@ arXiv:2010.11667
 I used dataset from this site - https://archive.ics.uci.edu/ml/datasets/eeg+database , but in finally i convert the dataset to the next file - "Data_after_convert.csv" 
 
 Recognition of alcoholism due to EEG signals, by - machine learning and deep learning, Python  
-preprocessing folder:  
-                    3.1 Fourier_series.py
-                    3.2 filter_WEILET.py
-                    3.3 Correlation.py 
+preprocessing folder:    
+                    3.1 Fourier_series.py  
+                    3.2 filter_WEILET.py  
+                    3.3 Correlation.py  
 prepare dataset by file - 1.start_convert_data.py
 machine learning - machine_learning_EEG.py
  
