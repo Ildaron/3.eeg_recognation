@@ -9,10 +9,12 @@ I used dataset from this site - https://archive.ics.uci.edu/ml/datasets/eeg+data
 
 Recognition of alcoholism due to EEG signals, by - machine learning and deep learning, Python  
 preprocessing folder:  
-                    3.1 Fourier series for data in python  
-                    3.2 Filter WEILET for data in python  
-                    3.3 Correlation for data in python  
-                    
+                    3.1 Fourier_series.py
+                    3.2 filter_WEILET.py
+                    3.3 Correlation.py 
+prepare dataset by file - 1.start_convert_data.py
+machine learning - machine_learning_EEG.py
+ 
 #### Example of result for wavelet transform
 
 ![alt tag](https://github.com/Ildaron/3.eeg_recognation/blob/master/New%20Bitmap%20Image.bmp "Example of result for wavelet transform")​
