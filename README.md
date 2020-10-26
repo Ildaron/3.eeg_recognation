@@ -10,4 +10,4 @@ preprocessing folder:
                     3.2 Filter WEILET for data in python  
                     3.3 Correlation for data in python  
 
-![alt tag](https://github.com/Ildaron/3.eeg_recognation/blob/master/New%20Bitmap%20Image.bmp "Описание будет тут")​
+![alt tag](https://github.com/Ildaron/3.eeg_recognation/blob/master/New%20Bitmap%20Image.bmp "Example of result for wavelet transform")​
