@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
-#df = pd.read_csv('C:/Users/Leisan/Desktop/science/12.Brain/4/Data1.csv')
+#df = pd.read_csv('Data1.csv')
 df4 = pd.read_csv('not_alc_s2_conv.csv')
 
 #print (df4)
