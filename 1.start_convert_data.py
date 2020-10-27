@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 
-df = pd.read_csv('C:/Users/rakhmatulin/Desktop/jre_new/13.Brain/4._EGG_My_project/1.1_Article/4.not_alc_s2.csv')
+df = pd.read_csv('4.not_alc_s2.csv')
 
 
 df1=df["sensor value"]
