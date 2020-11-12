@@ -1,14 +1,11 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
 import pywt
 import pywt.data
 import pandas as pd
+from pylab import *
+from numpy import *
 
-
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
 
 df = pd.read_csv('not_alc_s2.csv')
 
@@ -34,18 +31,9 @@ plt.plot(FP2)
 #plt.show()
 
 
-
-import pywt
-from pylab import *
-from numpy import *
 x = linspace (0,  1,  num = 2048)
 y = FP2
 
-
-
-import pywt
-from pylab import *
-from numpy import *
 
 st='sym5'
 (cA, cD) = pywt.dwt(y,st)
