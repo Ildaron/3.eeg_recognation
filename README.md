@@ -1,6 +1,10 @@
 Python (deep learning and machine learning) for EEG signal processing on the example of recognizing the disease of alcoholism
 =====================
 
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=DIY%20Brain-Computer%20%20interface%20ironbci%20&url=https://github.com/Ildaron/ironbci&hashtags=laser,mosquitoes,python,opensource)  [![Hardware demonstrations](https://github.com/Ildaron/3.eeg_recognation/blob/master/licence.txt)
+
+
+
 -  [How it Works](https://github.com/Ildaron/3.eeg_recognation#how-it-works)  
 -  [Example of result for wavelet transform](https://github.com/Ildaron/3.eeg_recognation#example-of-result-for-wavelet-transform)   
 -  [Example of result for Fast Fourier transform](https://github.com/Ildaron/3.eeg_recognation#example-of-result-for-fast-fourier--transform)     
@@ -25,9 +29,9 @@ but in finally I convert the dataset to the next file -
 
 Recognition of alcoholism due to EEG signals, by - machine learning and deep learning, Python  
 preprocessing folder:    
-                    ["3.1. Fourier_series.py"](https://github.com/Ildaron/3.eeg_recognation/blob/master/preprocessing/3.1.Fourier_series.py)
-                    ["3.2. filter_WEILET.py"](https://github.com/Ildaron/3.eeg_recognation/blob/master/preprocessing/3.2.filter_WEILET.py)
-                    ["3.3. Correlation.py"](https://github.com/Ildaron/3.eeg_recognation/blob/master/preprocessing/3.3.Correlation.py)
+                    ["3.1. Fourier_series.py"](https://github.com/Ildaron/3.eeg_recognation/blob/master/preprocessing/3.1.Fourier_series.py)  
+                    ["3.2. filter_WEILET.py"](https://github.com/Ildaron/3.eeg_recognation/blob/master/preprocessing/3.2.filter_WEILET.py)  
+                    ["3.3. Correlation.py"](https://github.com/Ildaron/3.eeg_recognation/blob/master/preprocessing/3.3.Correlation.py)  
 prepare dataset by file - 1.start_convert_data.py
 machine learning - machine_learning_EEG.py
  
