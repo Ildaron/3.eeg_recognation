@@ -25,9 +25,9 @@ but in finally I convert the dataset to the next file -
 
 Recognition of alcoholism due to EEG signals, by - machine learning and deep learning, Python  
 preprocessing folder:    
-                    3.1 Fourier_series.py  
-                    3.2 filter_WEILET.py  
-                    3.3 Correlation.py  
+                    ["3.1. Fourier_series.py"](https://github.com/Ildaron/3.eeg_recognation/blob/master/preprocessing/3.1.Fourier_series.py)
+                    ["3.2. filter_WEILET.py"](https://github.com/Ildaron/3.eeg_recognation/blob/master/preprocessing/3.2.filter_WEILET.py)
+                    ["3.3. Correlation.py"](https://github.com/Ildaron/3.eeg_recognation/blob/master/preprocessing/3.3.Correlation.py)
 prepare dataset by file - 1.start_convert_data.py
 machine learning - machine_learning_EEG.py
  
