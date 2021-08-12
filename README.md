@@ -46,6 +46,9 @@ machine learning - machine_learning_EEG.py
 ![alt tag](https://github.com/Ildaron/3.eeg_recognation/blob/master/pic.4.bmp "type of machine learning dataset")​
 
 #### Citation
+Ralhmatulin, I. (2020). Python (deep learning and machine learning) for EEG signal processing on the example of recognizing the disease of alcoholism.  arXiv:2010.11667
+
+
 
 #### Licence
 [GNU General Public License v3.0](https://github.com/Ildaron/3.eeg_recognation/blob/master/licence.txt)
