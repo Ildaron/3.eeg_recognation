@@ -1,8 +1,7 @@
 Python (deep learning and machine learning) for EEG signal processing on the example of recognizing the disease of alcoholism
 =====================
 
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=DIY%20Brain-Computer%20%20interface%20ironbci%20&url=https://github.com/Ildaron/ironbci&hashtags=laser,mosquitoes,python,opensource)  [![Hardware demonstrations](https://github.com/Ildaron/3.eeg_recognation/blob/master/licence.txt)
-
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=DIY%20Brain-Computer%20%20interface%20ironbci%20&url=https://github.com/Ildaron/ironbci&hashtags=laser,mosquitoes,python,opensource) 
 
 
 -  [How it Works](https://github.com/Ildaron/3.eeg_recognation#how-it-works)  
