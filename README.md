@@ -1,6 +1,19 @@
 Python (deep learning and machine learning) for EEG signal processing on the example of recognizing the disease of alcoholism
 =====================
 
+-  [How it Works](https://github.com/Ildaron/3.eeg_recognation#how-it-works)  
+-  [Example of result for wavelet transform](https://github.com/Ildaron/3.eeg_recognation#example-of-result-for-wavelet-transform)   
+-  [Example of result for Fast Fourier transform](https://github.com/Ildaron/3.eeg_recognation#example-of-result-for-fast-fourier--transform)     
+-  [Example of type of machine learning dataset](https://github.com/Ildaron/3.eeg_recognation#example-of-type-of-machine-learning-dataset)    
+-  [Citation](https://github.com/Ildaron/3.eeg_recognation#citation)  
+-  [Hardware and Signal processing demonstarations](https://github.com/Ildaron/ironbci#6-hardware-and-signal-processing-demonstarations)     
+-  [Citation](https://github.com/Ildaron/ironbci/blob/master/README.md#7-citation)   
+-  [Licence](https://github.com/Ildaron/3.eeg_recognation#licence)     
+
+
+
+
+
 #### How it works 
 Full explanation in the paper - [here](https://www.researchgate.net/publication/344827354_Python_deep_learning_and_machine_learning_for_EEG_signal_processing_on_the_example_of_recognizing_the_disease_of_alcoholism_arXiv201011667_eessSP)
 
