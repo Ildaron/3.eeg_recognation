@@ -1,13 +1,13 @@
 Python (deep learning and machine learning) for EEG signal processing on the example of recognizing the disease of alcoholism
 =====================
 
-Full explanation in the paper [here](https://www.researchgate.net/publication/344827354_Python_deep_learning_and_machine_learning_for_EEG_signal_processing_on_the_example_of_recognizing_the_disease_of_alcoholism_arXiv201011667_eessSP)
+Full explanation in the paper - [here](https://www.researchgate.net/publication/344827354_Python_deep_learning_and_machine_learning_for_EEG_signal_processing_on_the_example_of_recognizing_the_disease_of_alcoholism_arXiv201011667_eessSP)
 
 I used dataset from this site - [here](https://archive.ics.uci.edu/ml/datasets/eeg+database)
 
 
-but in finally i convert the dataset to the next file - "Data_after_convert.csv" 
-
+but in finally I convert the dataset to the next file - 
+["Data_after_convert.csv" ](https://github.com/Ildaron/3.eeg_recognation/blob/master/Data_after_convert.csv)
 
 Recognition of alcoholism due to EEG signals, by - machine learning and deep learning, Python  
 preprocessing folder:    
