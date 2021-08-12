@@ -33,3 +33,6 @@ machine learning - machine_learning_EEG.py
 ![alt tag](https://github.com/Ildaron/3.eeg_recognation/blob/master/pic.4.bmp "type of machine learning dataset")​
 
 #### Citation
+
+#### Licence
+
