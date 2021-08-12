@@ -48,4 +48,4 @@ machine learning - machine_learning_EEG.py
 #### Citation
 
 #### Licence
-
+[GNU General Public License v3.0](https://github.com/Ildaron/3.eeg_recognation/blob/master/licence.txt)
