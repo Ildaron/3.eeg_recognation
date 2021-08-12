@@ -31,10 +31,8 @@ preprocessing folder:
                     ["3.1. Fourier_series.py"](https://github.com/Ildaron/3.eeg_recognation/blob/master/preprocessing/3.1.Fourier_series.py)  
                     ["3.2. filter_WEILET.py"](https://github.com/Ildaron/3.eeg_recognation/blob/master/preprocessing/3.2.filter_WEILET.py)  
                     ["3.3. Correlation.py"](https://github.com/Ildaron/3.eeg_recognation/blob/master/preprocessing/3.3.Correlation.py)  
-prepare dataset by file
-- ["1.start_convert_data.py"](https://github.com/Ildaron/3.eeg_recognation/blob/master/1.start_convert_data.py)    
-machine learning   
- - ["machine_learning_EEG.py"](https://github.com/Ildaron/3.eeg_recognation/blob/master/machine_learning/machine_learning_EEG.py)    
+prepare dataset by file - ["1.start_convert_data.py"](https://github.com/Ildaron/3.eeg_recognation/blob/master/1.start_convert_data.py)    
+machine learning - ["machine_learning_EEG.py"](https://github.com/Ildaron/3.eeg_recognation/blob/master/machine_learning/machine_learning_EEG.py)    
 machine learning 
 
 #### Example of result for wavelet transform
