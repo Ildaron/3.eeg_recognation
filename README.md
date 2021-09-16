@@ -9,7 +9,7 @@ Python (deep learning and machine learning) for EEG signal processing on the exa
 -  [Example of result for Fast Fourier transform](https://github.com/Ildaron/3.eeg_recognation#example-of-result-for-fast-fourier--transform)     
 -  [Example of type of machine learning dataset](https://github.com/Ildaron/3.eeg_recognation#example-of-type-of-machine-learning-dataset)    
 -  [Hardware and Signal processing demonstarations](https://github.com/Ildaron/ironbci#6-hardware-and-signal-processing-demonstarations)     
--  [Citation](https://github.com/Ildaron/ironbci/blob/master/README.md#7-citation)   
+-  [Citation](https://github.com/Ildaron/3.eeg_recognation#citation)   
 -  [Licence](https://github.com/Ildaron/3.eeg_recognation#licence)     
 
 
